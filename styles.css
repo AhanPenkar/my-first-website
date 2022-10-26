@@ -1,9 +1,9 @@
 html {
-	background-color: gray;
+	background-color: rgb(113, 37, 37);
 }
 
 body {
-	background: white;
+	background: rgb(32, 10, 229);
 	width: 50%;
 	margin: 10px auto;
 	padding: 10px;
@@ -13,7 +13,7 @@ body {
 table {
 	border-collapse: collapse;
 	border: 2px black solid;
-	font: 12px sans-serif;
+	font: 14px sans-serif;
 }
 
 td {
